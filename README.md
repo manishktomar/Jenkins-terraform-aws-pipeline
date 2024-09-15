@@ -1,5 +1,6 @@
 # Jenkins Terraform AWS Pipeline
 Jenkins, AWS, terraform and Github pipeline
+![image](https://github.com/user-attachments/assets/9f5cf166-266e-4aec-915e-bd7b57b0fa34)
 
 ## Explanation:
 - **provider.tf**: Specifies the AWS provider and uses the AWS region defined in variables.tf.
