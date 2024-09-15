@@ -8,10 +8,10 @@ Jenkins, AWS, terraform and Github pipeline
 - **output.tf**: Outputs useful information like the EC2 instance's public IP and instance ID after it is created.
 
 ## AWS IAM Policy for Terraform
-User Name = CICD-User
-AWS Credential Type = Access Key 
-Attach Policy = Administration Access       // You can change any other policy.
-Access Key and Secret Key                   // Required for Terraform.
+- User Name = CICD-User
+- AWS Credential Type = Access Key 
+- Attach Policy = Administration Access       // You can change any other policy.
+- Access Key and Secret Key                   // Required for Terraform.
 
 ## Jenkins Credential Setup
 
