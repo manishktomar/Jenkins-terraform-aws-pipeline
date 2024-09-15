@@ -1,4 +1,4 @@
-# Jenkins-terraform-aws-pipeline
+# Jenkins Terraform AWS Pipeline
 Jenkins, AWS, terraform and Github pipeline
 
 ## Explanation:
